@@ -1,0 +1,46 @@
+.button1 {
+    border-radius: 20px;
+    width: 130px;
+    height: 26px;
+    background-color: white;
+    color: aqua ;
+    border:2px solid aqua ;
+    cursor: pointer;
+    font-size: 16px;
+    margin-bottom: 10px;
+    
+    
+    
+    
+    
+    
+    
+}
+.button2{
+    border-radius: 50%;
+    border:2px solid aqua ;
+    background-color: aqua;
+    color:white;
+    font-size: 40px;
+    width: 50px;
+    cursor: pointer;
+    margin-bottom: 12px;
+}
+
+.button3{
+    font-size: 20px; ;
+    background-color:royalblue;
+    color:white;
+    box-shadow: 7px 7px 1px 1px rgba(0, 0, 255, .2);
+    cursor: pointer;
+    
+
+}    
+    
+ li{
+    color: white;
+ }   
+    
+
+    
+
